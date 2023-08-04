@@ -1,5 +1,7 @@
 # 2-Tier Architecture in AWS using Terraform
 
+![2 tier architecture in aws](https://github.com/imran99744/2-tier-architecture-with-terraform/assets/44345923/583a8041-d1bd-4926-b964-c2e1cc1c8392)
+
 ## Introduction
 This project is an implementation of a 2-tier architecture in AWS using Terraform. The architecture comprises two layers: a front-end web application running on Amazon Elastic Compute Cloud (EC2) instances and a back-end database running on Amazon Relational Database Service (RDS) instances. The goal of this project is to demonstrate the use of Terraform to create a scalable, maintainable, and secure infrastructure on AWS. To achieve this, we have leveraged Terraform modules, variables, data sources, and stored the state file remotely. Additionally, we have incorporated security best practices to ensure the infrastructure's integrity.
 
@@ -20,3 +22,4 @@ This project is an implementation of a 2-tier architecture in AWS using Terrafor
 
 ## Conclusion
 This project showcases a 2-tier architecture in AWS using Terraform, demonstrating best practices such as modularization, flexibility, and security. By leveraging modules, variables, data sources, and remote state storage, the infrastructure becomes easier to manage, maintain, and share with other team members. Keeping security in mind ensures that the infrastructure remains robust and less susceptible to potential vulnerabilities. With this project, you can easily deploy a scalable and secure 2-tier architecture on AWS using Terraform.
+
